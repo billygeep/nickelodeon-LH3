@@ -1,0 +1,236 @@
+{"frames": {
+
+"basement_stuff.png":
+{
+	"frame": {"x":1332,"y":212,"w":552,"h":262},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":552,"h":262},
+	"sourceSize": {"w":552,"h":263}
+},
+"clydes_bed.png":
+{
+	"frame": {"x":1,"y":735,"w":749,"h":425},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":749,"h":425},
+	"sourceSize": {"w":749,"h":425}
+},
+"clydes_sofa_scene.png":
+{
+	"frame": {"x":1332,"y":476,"w":538,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":538,"h":223},
+	"sourceSize": {"w":538,"h":223}
+},
+"diningroom_table.png":
+{
+	"frame": {"x":1605,"y":969,"w":361,"h":258},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":361,"h":258},
+	"sourceSize": {"w":361,"h":258}
+},
+"flips_counter.png":
+{
+	"frame": {"x":965,"y":1162,"w":324,"h":407},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":324,"h":407},
+	"sourceSize": {"w":324,"h":407}
+},
+"flips_trolly.png":
+{
+	"frame": {"x":780,"y":1325,"w":183,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":172},
+	"sourceSize": {"w":183,"h":172}
+},
+"floorpolisher.png":
+{
+	"frame": {"x":1291,"y":1100,"w":287,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":287,"h":226},
+	"sourceSize": {"w":287,"h":226}
+},
+"golf_green.png":
+{
+	"frame": {"x":1332,"y":1,"w":675,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":31,"w":675,"h":209},
+	"sourceSize": {"w":736,"h":240}
+},
+"jaildesk.png":
+{
+	"frame": {"x":1251,"y":701,"w":468,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":468,"h":208},
+	"sourceSize": {"w":470,"h":210}
+},
+"leafblower_furniture.png":
+{
+	"frame": {"x":1,"y":1540,"w":139,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":74},
+	"sourceSize": {"w":139,"h":74}
+},
+"leni_bed_scene.png":
+{
+	"frame": {"x":752,"y":530,"w":497,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":497,"h":271},
+	"sourceSize": {"w":497,"h":271}
+},
+"leni_chair_scene.png":
+{
+	"frame": {"x":1721,"y":701,"w":285,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":285,"h":266},
+	"sourceSize": {"w":285,"h":266}
+},
+"lincoln_bed.png":
+{
+	"frame": {"x":1,"y":1162,"w":961,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":0,"w":961,"h":161},
+	"sourceSize": {"w":1020,"h":161}
+},
+"livingroom_table.png":
+{
+	"frame": {"x":1,"y":1467,"w":435,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":435,"h":71},
+	"sourceSize": {"w":435,"h":71}
+},
+"lolapouffe_scene.png":
+{
+	"frame": {"x":1611,"y":1405,"w":207,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":207,"h":142},
+	"sourceSize": {"w":207,"h":142}
+},
+"luan_stool.png":
+{
+	"frame": {"x":1886,"y":212,"w":116,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":129},
+	"sourceSize": {"w":116,"h":129}
+},
+"mall_bench.png":
+{
+	"frame": {"x":438,"y":1467,"w":281,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":138},
+	"sourceSize": {"w":281,"h":138}
+},
+"mall_edge.png":
+{
+	"frame": {"x":750,"y":179,"w":580,"h":349},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":580,"h":349},
+	"sourceSize": {"w":580,"h":349}
+},
+"mall_hedge.png":
+{
+	"frame": {"x":752,"y":803,"w":478,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":478,"h":211},
+	"sourceSize": {"w":478,"h":211}
+},
+"mall_stepladder.png":
+{
+	"frame": {"x":1123,"y":1016,"w":101,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":99},
+	"sourceSize": {"w":101,"h":99}
+},
+"park_bush.png":
+{
+	"frame": {"x":1,"y":1,"w":1329,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1329,"h":176},
+	"sourceSize": {"w":1329,"h":176}
+},
+"park_sandpit.png":
+{
+	"frame": {"x":1,"y":1325,"w":777,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":777,"h":140},
+	"sourceSize": {"w":780,"h":140}
+},
+"park_tree.png":
+{
+	"frame": {"x":1,"y":179,"w":747,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":747,"h":554},
+	"sourceSize": {"w":747,"h":554}
+},
+"pedalbin.png":
+{
+	"frame": {"x":1820,"y":1405,"w":136,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":161},
+	"sourceSize": {"w":136,"h":161}
+},
+"pool_furniture.png":
+{
+	"frame": {"x":1611,"y":1229,"w":336,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":336,"h":174},
+	"sourceSize": {"w":336,"h":174}
+},
+"school_bush.png":
+{
+	"frame": {"x":752,"y":1016,"w":369,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":369,"h":144},
+	"sourceSize": {"w":369,"h":144}
+},
+"school_shrub.png":
+{
+	"frame": {"x":1232,"y":911,"w":371,"h":187},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":371,"h":187},
+	"sourceSize": {"w":371,"h":187}
+},
+"science_table.png":
+{
+	"frame": {"x":1291,"y":1328,"w":318,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":318,"h":261},
+	"sourceSize": {"w":318,"h":261}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "furniture_sprites.png",
+	"format": "RGBA8888",
+	"size": {"w":2008,"h":1615},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6600e0bbdfcbf67cadbd827eda5b8bd1:d0328410bc1280b88cb0ee4919ed7539:06210d140127e73b13fa61332a8ef6cd$"
+}
+}

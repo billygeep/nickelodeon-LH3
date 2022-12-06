@@ -1,0 +1,241 @@
+{
+  "spritemap": {
+    "airpop_sfx": {
+      "start": 0,
+      "end": 0.365714
+    },
+    "bird_sfx": {
+      "start": 0.56263,
+      "end": 1.581406
+    },
+    "bubblepop_sfx": {
+      "start": 1.831406,
+      "end": 2.177687
+    },
+    "button_sfx": {
+      "start": 2.427687,
+      "end": 3.112313
+    },
+    "buzzfail_sfx": {
+      "start": 3.362313,
+      "end": 4.878095
+    },
+    "cartyre_sfx": {
+      "start": 5.128095,
+      "end": 6.617075
+    },
+    "cash_sfx": {
+      "start": 6.867075,
+      "end": 7.807483
+    },
+    "catmeow_sfx": {
+      "start": 8.057483,
+      "end": 9.180748
+    },
+    "cauldron_sfx": {
+      "start": 9.430748,
+      "end": 13.942789
+    },
+    "cheer": {
+      "start": 14.192789,
+      "end": 19.469524
+    },
+    "clickbutton_sfx": {
+      "start": 19.719524,
+      "end": 19.844535
+    },
+    "clock_sfx": {
+      "start": 20.094535,
+      "end": 20.557483
+    },
+    "clockalarm_sfx": {
+      "start": 20.807483,
+      "end": 23.837687
+    },
+    "closet_sfx": {
+      "start": 24.087687,
+      "end": 24.599683
+    },
+    "collect_sfx": {
+      "start": 24.849683,
+      "end": 26.449683
+    },
+    "ComputerSFX_short-168": {
+      "start": 26.699683,
+      "end": 27.222132
+    },
+    "curtain_sfx": {
+      "start": 27.472132,
+      "end": 28.305488
+    },
+    "dialogue_sfx": {
+      "start": 28.555488,
+      "end": 28.800317
+    },
+    "dog_sfx": {
+      "start": 29.050317,
+      "end": 29.598889
+    },
+    "drawer_sfx": {
+      "start": 29.848889,
+      "end": 30.766213
+    },
+    "dresser_sfx": {
+      "start": 31.016213,
+      "end": 32.034989
+    },
+    "ducttape_sfx": {
+      "start": 32.284989,
+      "end": 33.173152
+    },
+    "fountain_sfx": {
+      "start": 33.423152,
+      "end": 35.774172
+    },
+    "fridge_sfx": {
+      "start": 36.024172,
+      "end": 36.798005
+    },
+    "frontdoor_sfx": {
+      "start": 37.048005,
+      "end": 37.965329
+    },
+    "furnacedoor_sfx": {
+      "start": 38.215329,
+      "end": 39.220567
+    },
+    "goodidea_sfx": {
+      "start": 39.470567,
+      "end": 40.46322
+    },
+    "hamster_sfx": {
+      "start": 40.71322,
+      "end": 41.965578
+    },
+    "horn_sfx": {
+      "start": 42.215578,
+      "end": 43.417211
+    },
+    "iconpickup_sfx": {
+      "start": 43.667211,
+      "end": 44.947211
+    },
+    "inventoryexpand_sfx": {
+      "start": 45.197211,
+      "end": 45.447211
+    },
+    "lightswitch_sfx": {
+      "start": 45.697211,
+      "end": 46.117778
+    },
+    "locker_sfx": {
+      "start": 46.367778,
+      "end": 48.562063
+    },
+    "lunchbox_sfx": {
+      "start": 48.812063,
+      "end": 49.647982
+    },
+    "message_sfx": {
+      "start": 49.897982,
+      "end": 50.317574
+    },
+    "mouse_sfx": {
+      "start": 50.567574,
+      "end": 50.95941
+    },
+    "mouse2_sfx": {
+      "start": 51.20941,
+      "end": 51.549002
+    },
+    "newtask_sfx": {
+      "start": 51.799002,
+      "end": 54.289569
+    },
+    "pahping_sfx": {
+      "start": 54.539569,
+      "end": 55.791927
+    },
+    "pedalbin_sfx": {
+      "start": 56.041927,
+      "end": 56.937846
+    },
+    "phonealert_sfx": {
+      "start": 57.187846,
+      "end": 58.311111
+    },
+    "print_sfx": {
+      "start": 58.561111,
+      "end": 60.180703
+    },
+    "record_sfx": {
+      "start": 60.430703,
+      "end": 61.501723
+    },
+    "sandpaper_sfx": {
+      "start": 61.751723,
+      "end": 62.095306
+    },
+    "shopbell_sfx": {
+      "start": 62.345306,
+      "end": 65.924082
+    },
+    "shutter_sfx": {
+      "start": 66.174082,
+      "end": 67.349592
+    },
+    "squeakytoy_sfx": {
+      "start": 67.599592,
+      "end": 68.612018
+    },
+    "stackpaper_sfx": {
+      "start": 68.862018,
+      "end": 69.100884
+    },
+    "taskcomplete_sfx": {
+      "start": 69.350884,
+      "end": 70.54483
+    },
+    "thud_sfx": {
+      "start": 70.79483,
+      "end": 71.675828
+    },
+    "trashcan_sfx": {
+      "start": 71.925828,
+      "end": 73.858889
+    },
+    "trumpet_sfx": {
+      "start": 74.108889,
+      "end": 76.082585
+    },
+    "unlock_sfx": {
+      "start": 76.332585,
+      "end": 77.821565
+    },
+    "valve_sfx": {
+      "start": 78.071565,
+      "end": 80.82449
+    },
+    "whoopee_sfx": {
+      "start": 81.07449,
+      "end": 81.887188
+    },
+    "wind_sfx": {
+      "start": 82.137188,
+      "end": 82.633515
+    },
+    "winsound_sfx": {
+      "start": 82.883515,
+      "end": 86.607642
+    },
+    "wrongitem_sfx": {
+      "start": 86.857642,
+      "end": 87.170272
+    }
+  },
+  "resources": [
+    "audiosprite.wav",
+    "audiosprite.ogg",
+    "audiosprite.mp3"
+  ]
+}
