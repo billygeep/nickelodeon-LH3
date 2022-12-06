@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Loud House</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta http-equiv="cleartype" content="on">
+    <meta name="format-detection" content="telephone=no">
+    <script src="./src/lib/jsembed.js"></script>
+<!--     <script src="https://btg.mtvnservices.com/aria/coda.html?site=nicktoons.co.uk"></script>  -->
+        <script type="text/javascript">      
+        
+        // Parameters configure jsembed itself.
+        var params = {
+            //base: "/games/data/spongebob/spongebob-bikini-bottom-bop-em/html5/", // base url of all content. Defaults ""
+            base: "",
+            api: "", // If not a flambe game, leave it blank.
+            autoscale: "true", // update window.canvasScale on window resize? Defaults true.
+            indexroot: "true", // use index url as path root? If false, uses domain root instead. Defaults false (uses domain root).
+            //libs: ["yourLibrary.js"] // array of libs to embed before trying to launch app. Defaults []
+        }           
+        // Attributes will be set on the embed target for use by the app. "base" will be set as well.
+        var attr = {                    
+        };
+        jsembed.embed("src/index.js", "embedtarget", "960", "560", params, attr);   //The first parameter will be your main js file 
+      </script>       
+</head>
+
+<body>
+    <div id="embedtarget"></div>
+    
+<script type="text/javascript" src="./dev/app.js"></script></body>
+</html>
